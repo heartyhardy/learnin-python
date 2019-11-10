@@ -1,12 +1,36 @@
-''' Dictionaries '''
-person = {
-    "name" : "Charith",
-    "age": 37,
-    "occupation": "Software Engineer"
-}
+''' Phone number to string '''
+# numbers = {
+#     "1": "One",
+#     "2": "Two",
+#     "3":"Three",
+#     "4":"Four",
+#     "5": "Five",
+#     "6":"Six",
+#     "7":"Seven",
+#     "8":"Eight",
+#     "9":"Nine",
+#     "0":"Zero"
+# }
 
-person["location"] = "Sri Lanka"
-print(person)
+# digitarr = []
+# number = input("Enter phone number: ");
+# numberarr = number[:]
+# for num in numberarr:
+#     if numbers.get(num) != None:
+#         digitarr.append(numbers.get(num))
+
+# print(digitarr)
+
+
+''' Dictionaries '''
+# person = {
+#     "name" : "Charith",
+#     "age": 37,
+#     "occupation": "Software Engineer"
+# }
+
+# person["location"] = "Sri Lanka"
+# print(person)
 
 # print(person["name"])
 # print(person.get("Name"))
