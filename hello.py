@@ -1,3 +1,18 @@
+''' Detect Emojis '''
+# emojis = {
+#     ":)" : "😊 ",
+#     ":(" : "😟 ",
+#     ":D" : "😂 "
+# }
+
+# finaltext =""
+# text = input("Enter message: ")
+# textarr = text.split(" ")
+# for word in textarr:
+#     finaltext += emojis.get(word, word) + " "
+# print(finaltext)
+
+
 ''' Phone number to string '''
 # numbers = {
 #     "1": "One",
