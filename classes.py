@@ -1,13 +1,18 @@
+''' Modules '''
+# import something
+# from something import <functions list>
+
 ''' Inheritance '''
-class Shape:
-    def draw(self):
-        print("A shape")
+# class Shape:
+#     def draw(self):
+#         print("A shape")
 
-class Circle(Shape):
-    pass
+# class Circle(Shape):
+#     pass
 
-circle = Circle()
-circle.draw()
+# circle = Circle()
+# circle.draw()
+
 
 ''' Classes and Constructor '''
 # class Person:
