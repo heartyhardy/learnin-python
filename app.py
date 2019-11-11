@@ -8,8 +8,8 @@ from random import random, randint, choice
 
 ''' Dice Roll '''
 
-diceRoll = (randint(1, 6), randint(1, 6))
-print(diceRoll)
+# diceRoll = (randint(1, 6), randint(1, 6))
+# print(diceRoll)
 
 ''' Random list picks '''
 
